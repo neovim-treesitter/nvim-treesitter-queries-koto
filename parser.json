@@ -1,6 +1,6 @@
 {
-  "lang": "koto",
+  "parser_version": "f8b3f62c0eed185dca1559789e78759d4bee60e5",
   "url": "https://github.com/koto-lang/tree-sitter-koto",
   "semver": false,
-  "parser_version": "f8b3f62c0eed185dca1559789e78759d4bee60e5"
+  "lang": "koto"
 }
